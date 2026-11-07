@@ -1,0 +1,22 @@
+{
+  "wheel_id": 796,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-109",
+  "project": "roof-repair-tampa-budget-tips-036dfbcc1062bd0e2997226cfaba28dbd",
+  "parent_t1_ref": "roofcontractortampa-154",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa budget tips",
+  "intended_url": "https://aumedia.neocities.org/roof-repair-tampa-budget-tips-036dfbcc1062bd0e2997226cfaba28dbd/",
+  "tier": "T2",
+  "writeback_nonce": "e2a5d6a03f436dbd",
+  "links": [
+    {
+      "target_url": "http://roof-repair-tampa-faq-9fe4915d00ac331490785284f9151213eb6483e5.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "more on roof repair tampa faq",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
